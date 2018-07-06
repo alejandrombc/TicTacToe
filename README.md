@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 # Contenido
-A continuación es presentado el juego de **Tres en Raya**, **La Vieja** o **Tic Tac Toe**. El requerimientp requería hacer gran parte de la lógica en el backend (**PHP**), para lograr esto se procedió a utilizar llamadas AJAX (o AJAJ) desde el front por cada jugada que se hacía. Luego el backend se encargaría de procesar este mensaje y enviar una respuesta asociada a él. En el comprimido que se presenta se pueden encontrar los siguientes archivos:
+A continuación es presentado el juego de **Tres en Raya**, **La Vieja** o **Tic Tac Toe**. El requerimiento solicitaba hacer gran parte de la lógica en el backend (**PHP**), para lograr esto se procedió a utilizar llamadas AJAX (o AJAJ) desde el front por cada jugada que se hacía. Luego el backend se encargaría de procesar este mensaje y enviar una respuesta asociada a él. En el comprimido que se presenta se pueden encontrar los siguientes archivos:
 - Main Folder
  - **index.php** -> Contiene todo el código HTML del juego.
  - **tictactoeHandler.php** -> Posee el handler intermedio entre la clase y el html. Encargado de recibir las llamadas AJAX.
