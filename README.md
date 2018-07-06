@@ -1,8 +1,5 @@
 # Tic Tac Toe
 
-
-**Tabla de Contenido**
-
 # Contenido
 A continuación es presentado el juego de **Tres en Raya**, **La Vieja** o **Tic Tac Toe**. El requerimientp requería hacer gran parte de la lógica en el backend (**PHP**), para lograr esto se procedió a utilizar llamadas AJAX (o AJAJ) desde el front por cada jugada que se hacía. Luego el backend se encargaría de procesar este mensaje y enviar una respuesta asociada a él. En el comprimido que se presenta se pueden encontrar los siguientes archivos:
 - Main Folder
@@ -21,7 +18,7 @@ A continuación es presentado el juego de **Tres en Raya**, **La Vieja** o **Tic
    - **tictactoe.sql** -> Posee el dump de la base de datos simple para almacenar las partidas jugadas.
    
    
-   # Cómo Jugar
+# Cómo Jugar
 Lo único que usted debe hacer como usuario experto es correr el dump en **MySQL** para crear la base de datos **hiberus** y la tabla **tictactoe**. Luego debe dirigirse al archivo **connection.php** y editar la configuración por la de su SMBD. Con esto solo debe poner la carpeta en un servidor web (Apache, por ejemplo), y abrir en su navegador -en la dirección configurada- el **index.php**.
 
 Jugar es bastante simple, solo debe dar click en cualquier caja en el panel 3x3:
