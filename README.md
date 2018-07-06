@@ -27,7 +27,7 @@ Jugar es bastante simple, solo debe dar click en cualquier caja en el panel 3x3:
     En cualquier momento puede hacer click en el botón de Replay para empezar nuevamente. 
     Además puede revisar el histórico de los últimos 30 juegos haciendo click en el botón de Last 30s, éste le mostrará quien ganó, cual fue su movimiento de victoria y cuantos segundos duró el juego.
     Cuando una partida termine automaticamente se le abrirá un modal indicando quien ganó -en caso de que exista un ganador- y podrá reiniciar el juego con solamente ocultarlo.
-### Imagenes
+### Imágenes
 
 > Imagen principal:
 
